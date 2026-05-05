@@ -4,9 +4,9 @@ from dotenv import load_dotenv
 from botocore.exceptions import ClientError
 import zipfile
 from cnnClassifier import logger
-from cnnClassifier.utils.common import get_size
+from sec.cnnClassifier.utils.common import get_size
 import tempfile
-from cnnClassifier.entity.config_entity import DataIngestionConfig
+from sec.cnnClassifier.entity.config_entity import DataIngestionConfig
 from pathlib import Path
 load_dotenv()
 

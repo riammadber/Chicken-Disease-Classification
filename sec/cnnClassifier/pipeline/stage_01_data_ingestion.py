@@ -1,5 +1,5 @@
-from cnnClassifier.config.configuration import ConfigurationManager
-from cnnClassifier.components.data_ingestion import DataIngestion
+from sec.cnnClassifier.config.configuration import ConfigurationManager
+from sec.cnnClassifier.components.data_ingestion import DataIngestion
 from cnnClassifier import logger
 import os 
 from dotenv import load_dotenv
