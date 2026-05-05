@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "End-to-End-Deep-Learning-Project-Chicken-Disease"
-AUTHOR_USER_NAME = "entbappy"
+AUTHOR_USER_NAME = "riam"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "entbappy73@gmail.com"
+AUTHOR_EMAIL = "riammadbor@gmail.com"
 
 
 setuptools.setup(
